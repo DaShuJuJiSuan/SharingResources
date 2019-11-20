@@ -1,2 +1,2 @@
 # SharingResources
-这是一个仓库
+这是一个仓库。
