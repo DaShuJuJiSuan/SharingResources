@@ -1,2 +1,2 @@
 # SharingResources
-这是一个仓库。
+周雷的主动学习代码
