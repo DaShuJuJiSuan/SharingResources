@@ -1,2 +1,3 @@
 # SharingResources
-这是一个仓库。
+coal为煤炭项目代码，里面有多视图论文中DVC算法实现
+mfeat为UCI数据集上DVC算法和其他数据视图构造算法对比实验
